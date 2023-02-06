@@ -54,3 +54,7 @@ int main(){
 ```
 
 ## Counting from 1 to n
+
+```cpp
+
+```
