@@ -1,6 +1,6 @@
 # Week 1
 
-## Patterns
+## [Patterns](week-1/patterns.md)
 
 ### The smallest heading
 
