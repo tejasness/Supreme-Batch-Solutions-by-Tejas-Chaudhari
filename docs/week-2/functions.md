@@ -211,3 +211,9 @@ int main(){
 ```cpp
 
 ```
+
+### print all prime no from 1 to n
+
+```cpp
+
+```
