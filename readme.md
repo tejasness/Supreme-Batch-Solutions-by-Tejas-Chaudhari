@@ -2,13 +2,7 @@
 
 ## [Patterns](week-1/patterns.md)
 
-### The smallest heading
-
-#### gkejker
-
-##### fekjrkejrkwe
-
-###### ejrkejawrkejr
+[main.cpp](main.cpp){targe: _blank}
 
 ### items
 
