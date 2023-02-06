@@ -205,3 +205,9 @@ int main(){
   return 0;
 }
 ```
+
+### check no is prime or not
+
+```cpp
+
+```
