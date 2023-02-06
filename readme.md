@@ -2,7 +2,7 @@
 
 ## Week 1
 
-### [Patterns and Homework](docs/week-2/functions.md)
+### [Patterns and Homework](docs/week-1/patterns.md)
 
 ## Week 2
 
@@ -12,4 +12,4 @@
 
 ## Week 3
 
-### [Arrays and Homework](docs/week-2/functions.md)
+### [Arrays and Homework](docs/week-3/arrays.md)
