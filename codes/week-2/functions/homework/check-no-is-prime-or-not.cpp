@@ -2,7 +2,14 @@
 
 using namespace std;
 
-int main(){
+void isPrime(int a){
+  
+}
 
+int main(){
+  int n;
+  cout<<"enter n:"<<endl;
+  cin>>n;
+  isPrime(n);
   return 0;
 }
