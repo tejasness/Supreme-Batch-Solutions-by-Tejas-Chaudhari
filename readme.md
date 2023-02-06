@@ -10,7 +10,7 @@
 
 ###### ejrkejawrkejr
 
-## Download code [main.cpp](main.cpp)
+## Download code [main.cpp](main.cpp){:target="_blank"}
 
 ### items
 
