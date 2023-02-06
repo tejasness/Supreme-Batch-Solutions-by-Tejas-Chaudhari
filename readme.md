@@ -2,7 +2,7 @@
 
 ## [Patterns](week-1/patterns.md)
 
-[main.cpp](main.cpp){targe: _blank}
+[main.cpp](main.cpp){:target="_blank"}
 
 ### items
 
