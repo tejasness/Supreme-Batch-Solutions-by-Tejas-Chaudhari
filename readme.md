@@ -1,18 +1,10 @@
 # All Weeks
 
-## Week 1
+## Week 2
 
-## [Patterns](week-1/patterns.md)
+## [Functions and Problems](docs/week-2/functions.md)
 
 Copy all code of main: [main.cpp](main.cpp){:target="_blank"}
-
-### items
-
-1. kfjekw
-2. fajfa
-3. arjerk
-
-![drone shot](pexels-anna-holodna-12528815.jpg)
 
 ```cpp
 #include <iostream>
