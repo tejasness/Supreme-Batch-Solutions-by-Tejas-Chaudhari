@@ -49,5 +49,3 @@ int main()
 ## link to another page in folder
 
 [link to another page in folder](set/test.md)
-
-theme: Midnight
