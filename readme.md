@@ -10,8 +10,6 @@
 
 ###### ejrkejawrkejr
 
-## Download code <a href="[main.cpp](https://tejasness.github.io/DSA-Supreme-Docs-by-Tejas-Chaudhari/main.cpp)" target="_blank">main.cpp</a>
-
 ### items
 
 1. kfjekw
