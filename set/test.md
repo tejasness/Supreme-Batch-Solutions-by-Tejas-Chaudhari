@@ -1,1 +1,3 @@
-[go to homepage](../reminder.md)
+# test
+
+[go to homepage](../readme.md)
