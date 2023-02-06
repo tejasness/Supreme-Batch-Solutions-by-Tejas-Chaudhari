@@ -2,7 +2,7 @@
 
 ## [Patterns](week-1/patterns.md)
 
-[main.cpp](main.cpp){:target="_blank"}
+Copy all code of main: [main.cpp](main.cpp){:target="_blank"}
 
 ### items
 
