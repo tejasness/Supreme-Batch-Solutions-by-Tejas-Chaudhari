@@ -1,6 +1,8 @@
-# Functions
+# Functions and Homework
 
-## Write a function to add 2 numbers
+## Functions =>
+
+### Write a function to add 2 numbers
 
 ```cpp
 #include<iostream>
@@ -24,7 +26,7 @@ int main(){
 }
 ```
 
-## Find max of 3 numbers
+### Find max of 3 numbers
 
 ```cpp
 #include<iostream>
@@ -53,7 +55,7 @@ int main(){
 }
 ```
 
-## Counting from 1 to n
+### Counting from 1 to n
 
 ```cpp
 #include<iostream>
@@ -78,7 +80,7 @@ int main(){
 }
 ```
 
-## students and grade problem
+### students and grade problem
 
 ```cpp
 #include<iostream>
@@ -108,7 +110,7 @@ int main(){
 }
 ```
 
-## sum of even no upto n
+### sum of even no upto n
 
 ```cpp
 #include<iostream>
@@ -133,4 +135,4 @@ int main(){
 }
 ```
 
-# Homework
+## Homework =>
