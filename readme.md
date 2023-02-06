@@ -10,7 +10,7 @@
 
 ###### ejrkejawrkejr
 
-## Download code [main.cpp](main.cpp){:target="_blank"}
+## Download code <a href="[main.cpp](https://tejasness.github.io/DSA-Supreme-Docs-by-Tejas-Chaudhari/main.cpp)" target="_blank">main.cpp</a>
 
 ### items
 
