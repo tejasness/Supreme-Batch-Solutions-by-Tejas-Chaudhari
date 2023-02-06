@@ -1,6 +1,6 @@
-# The largest heading
+# Week 1
 
-## The second largest heading
+## Patterns
 
 ### The smallest heading
 
