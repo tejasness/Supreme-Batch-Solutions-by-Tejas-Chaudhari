@@ -18,6 +18,10 @@ int getEvenSum(int n) {
 }
 
 int main(){
-
-  return 0
+	int n;
+	cout << "Enter the value of n " << endl;
+	cin >> n;
+	int ans = getEvenSum(n);
+	cout << "Even sum is " << ans << endl;
+  return 0;
 }
