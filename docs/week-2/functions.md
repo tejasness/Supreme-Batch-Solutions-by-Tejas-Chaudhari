@@ -160,5 +160,48 @@ int main(){
 ### find no is even or odd
 
 ```cpp
+#include<iostream>
 
+using namespace std;
+
+void isEvenOrOdd(int no){
+  if(no%2==0){
+    cout<<"No is even"<<endl;
+  }
+  else{
+    cout<<"No is Odd"<<endl;
+  }
+}
+
+int main(){
+  int n;
+  cout<<"Enter no"<<endl;
+  cin>>n;
+  isEvenOrOdd(n);
+  return 0;
+}
+```
+
+### find factorial of number
+
+```cpp
+#include<iostream>
+
+using namespace std;
+
+void factorial(int n){
+  int a = 1;
+  for(int i=1;i<=n;i++){
+    a = a*i;
+  }
+  cout<<"Factorial of no is: "<<a<<endl;
+}
+
+int main(){
+  int n;
+  cout<<"Enter no:"<<endl;
+  cin>>n;
+  factorial(n);
+  return 0;
+}
 ```
