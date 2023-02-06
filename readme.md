@@ -1,4 +1,6 @@
-# Week 1
+# All Weeks
+
+## Week 1
 
 ## [Patterns](week-1/patterns.md)
 
