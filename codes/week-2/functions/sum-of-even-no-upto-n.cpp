@@ -15,6 +15,6 @@ int main(){
 	cout << "Enter the value of n " << endl;
 	cin >> n;
 	int ans = getEvenSum(n);
-	cout << "Even sum is " << ans << endl;
+	cout << "Sum of even no upto "<<n<<" is " << ans << endl;
   return 0;
 }
