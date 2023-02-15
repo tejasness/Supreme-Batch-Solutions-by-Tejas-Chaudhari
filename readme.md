@@ -1,4 +1,4 @@
-# Supreme Batch solutions by Tejas Chaudhari
+# Supreme Batch Solutions by Tejas Chaudhari
 
 ## [a. Patterns](a.%20Patterns/patterns.md)
 
