@@ -99,3 +99,5 @@
 
 // 	cout << "maximum number is " << maxi  << endl;
 // }
+
+// => e. Extreme print in array
