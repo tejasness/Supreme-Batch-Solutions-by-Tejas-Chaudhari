@@ -17,32 +17,33 @@
 
 // find a no in an array
 
-#include<iostream>
+// #include<iostream>
 
-using namespace std;
+// using namespace std;
 
-bool find(int arr[], int size, int key) {
-	for(int i=0; i<size; i++) {
-		if(arr[i] == key){
-			return true;
-		}
-	}
-	return false;
-}
+// bool find(int arr[], int size, int key) {
+// 	for(int i=0; i<size; i++) {
+// 		if(arr[i] == key){
+// 			return true;
+// 		}
+// 	}
+// 	return false;
+// }
 
-int main(){
-	int size = 5;
-		int arr[size] = {1,3,5,7,8};
+// int main(){
+// 	int size = 5;
+// 	int arr[size] = {1,3,5,7,8};
+// 	cout << "Enter the key to find " << endl;
+// 	int key;
+// 	cin  >> key;
 
-	cout << "Enter the key to find " << endl;
-	int key;
-	cin  >> key;
+// 	if(find(arr,size, key)) {
+// 		cout << "Found " << endl;
+// 	}
+// 	else {
+// 		cout << "not Found " << endl;
+// 	}
+// 	return 0;
+// }
 
-	if(find(arr,size, key)) {
-		cout << "Found " << endl;
-	}
-	else {
-		cout << "not Found " << endl;
-	}
-	return 0;
-}
+// Count 0s and 1s in array
