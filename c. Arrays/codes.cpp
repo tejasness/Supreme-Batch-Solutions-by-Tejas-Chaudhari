@@ -23,8 +23,6 @@ using namespace std;
 
 bool find(int arr[], int size, int key) {
 
-	//linear search
-
 	for(int i=0; i<size; i++) {
 		if(arr[i] == key)
 			return true;
@@ -41,7 +39,7 @@ int main(){
 	int key;
 	cin  >> key;
 
-	if(find(arr,size, key)) {
+	if(find(arr.size, key)) {
 		cout << "Found " << endl;
 	}
 	else {
