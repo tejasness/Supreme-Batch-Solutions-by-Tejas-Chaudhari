@@ -23,11 +23,16 @@ using namespace std;
 
 bool find(int arr[], int size, int key) {
 
+	bool flag = 0;
 	for(int i=0; i<size; i++) {
-		if(arr[i] == key)
-			return true;
-		else
-			return false;
+		if(arr[i] == key){
+			flag = 1;
+			return flag;
+			break;
+	}
+		else{
+			return flag;
+		}
 	}
 }
 
