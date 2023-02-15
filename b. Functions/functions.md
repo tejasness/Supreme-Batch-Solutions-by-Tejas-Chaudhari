@@ -2,25 +2,25 @@
 
 ## Contents =>
 
-[Write a function to add 2 numbers](#write-a-function-to-add-2-numbers)
+[a. Write a function to add 2 numbers](#write-a-function-to-add-2-numbers)
 
-[Find max of 3 numbers](#find-max-of-3-numbers)
+[b. Find max of 3 numbers](#find-max-of-3-numbers)
 
-[Counting from 1 to n](#counting-from-1-to-n)
+[c. Counting from 1 to n](#counting-from-1-to-n)
 
-[Students and grade problem](#students-and-grade-problem)
+[d. Students and grade problem](#students-and-grade-problem)
 
-[Sum of even no upto n](#sum-of-even-no-upto-n)
+[e. Sum of even no upto n](#sum-of-even-no-upto-n)
 
-[Area of circle](#area-of-circle)
+[f. Area of circle](#area-of-circle)
 
-[Find no is even or odd](#find-no-is-even-or-odd)
+[g. Find no is even or odd](#find-no-is-even-or-odd)
 
-[Find factorial of number](#find-factorial-of-number)
+[h. Find factorial of number](#find-factorial-of-number)
 
-[Check no is prime or not](#check-no-is-prime-or-not)
+[i. Check no is prime or not](#check-no-is-prime-or-not)
 
-[Print all prime no from 1 to n](#print-all-prime-no-from-1-to-n)
+[j. Print all prime no from 1 to n](#print-all-prime-no-from-1-to-n)
 
 <br>
 
