@@ -1,7 +1,9 @@
 # Arrays and Homework
 
 ## Contents =>
+[]()
 
+<br>
 ## Solutions =>
 
 ### a. Initialize array with -1
@@ -175,4 +177,10 @@ int main(){
 	}
 	return 0;
 }
+```
+
+### g. Implement swap function 3 way
+
+```cpp
+
 ```

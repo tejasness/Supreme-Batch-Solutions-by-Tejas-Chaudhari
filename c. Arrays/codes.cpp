@@ -160,3 +160,5 @@ int main(){
 	}
 	return 0;
 }
+
+// => g. Implement swap function 3 way
