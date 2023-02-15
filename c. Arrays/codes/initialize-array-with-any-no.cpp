@@ -1,12 +1,3 @@
-# Arrays and Homework
-
-## Contents =>
-
-## Solutions =>
-
-### Initialize array with any no
-
-```cpp
 #include <cstring>
 #include <iostream>
 using namespace std;
@@ -14,9 +5,8 @@ using namespace std;
 // Driver Code
 int main()
 {
-	int arr[] = a;
+	int arr[5];
 	memset(arr, 2, 5);
 	cout << arr;
 	return 0;
 }
-```
