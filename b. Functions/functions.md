@@ -1,6 +1,14 @@
-# Functions and Homework
+# Functions
 
-## Functions =>
+## Table of Contents
+
+### [Write a function to add 2 numbers](./functions.md#write-a-function-to-add-2-numbers)
+
+### [Find max of 3 numbers](#find-max-of-3-numbers)
+
+### [Counting from 1 to n](#counting-from-1-to-n)
+
+<br>
 
 ### Write a function to add 2 numbers
 
