@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
 	int arr[5];
-	memset(arr, 2, 5);
+	memset(arr, 2, sizeof(arr));
 	for(int i = 0; i<5;i++){
     cout<<arr[i]<<endl;
   }
