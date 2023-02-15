@@ -2,25 +2,25 @@
 
 ## Contents =>
 
-[a. Write a function to add 2 numbers](#a.-write-a-function-to-add-2-numbers)
+[a. Write a function to add 2 numbers](#a-write-a-function-to-add-2-numbers)
 
-[b. Find max of 3 numbers](#find-max-of-3-numbers)
+[b. Find max of 3 numbers](#b-find-max-of-3-numbers)
 
-[c. Counting from 1 to n](#counting-from-1-to-n)
+[c. Counting from 1 to n](#c-counting-from-1-to-n)
 
-[d. Students and grade problem](#students-and-grade-problem)
+[d. Students and grade problem](#d-students-and-grade-problem)
 
-[e. Sum of even no upto n](#sum-of-even-no-upto-n)
+[e. Sum of even no upto n](#e-sum-of-even-no-upto-n)
 
-[f. Area of circle](#area-of-circle)
+[f. Area of circle](#f-area-of-circle)
 
-[g. Find no is even or odd](#find-no-is-even-or-odd)
+[g. Find no is even or odd](#g-find-no-is-even-or-odd)
 
-[h. Find factorial of number](#find-factorial-of-number)
+[h. Find factorial of number](#h-find-factorial-of-number)
 
-[i. Check no is prime or not](#check-no-is-prime-or-not)
+[i. Check no is prime or not](#i-check-no-is-prime-or-not)
 
-[j. Print all prime no from 1 to n](#print-all-prime-no-from-1-to-n)
+[j. Print all prime no from 1 to n](#j-print-all-prime-no-from-1-to-n)
 
 <br>
 
@@ -50,7 +50,7 @@ int main(){
 }
 ```
 
-### Find max of 3 numbers
+### b. Find max of 3 numbers
 
 ```cpp
 #include<iostream>
@@ -79,7 +79,7 @@ int main(){
 }
 ```
 
-### Counting from 1 to n
+### c. Counting from 1 to n
 
 ```cpp
 #include<iostream>
@@ -104,7 +104,7 @@ int main(){
 }
 ```
 
-### Students and grade problem
+### d. Students and grade problem
 
 ```cpp
 #include<iostream>
@@ -134,7 +134,7 @@ int main(){
 }
 ```
 
-### Sum of even no upto n
+### e. Sum of even no upto n
 
 ```cpp
 #include<iostream>
@@ -159,9 +159,7 @@ int main(){
 }
 ```
 
-## Homework =>
-
-### Area of circle
+### f. Area of circle
 
 ```cpp
 #include<iostream>
@@ -181,7 +179,7 @@ int main(){
 }
 ```
 
-### Find no is even or odd
+### g. Find no is even or odd
 
 ```cpp
 #include<iostream>
@@ -206,7 +204,7 @@ int main(){
 }
 ```
 
-### Find factorial of number
+### h. Find factorial of number
 
 ```cpp
 #include<iostream>
@@ -230,13 +228,13 @@ int main(){
 }
 ```
 
-### Check no is prime or not
+### i. Check no is prime or not
 
 ```cpp
 
 ```
 
-### Print all prime no from 1 to n
+### j. Print all prime no from 1 to n
 
 ```cpp
 
