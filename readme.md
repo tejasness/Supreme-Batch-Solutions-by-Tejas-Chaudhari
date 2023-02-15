@@ -1,7 +1,9 @@
 # Supreme Batch Solutions by Tejas Chaudhari
 
-## [a. Patterns](a.%20Patterns/patterns.md)
+## Topics =>
 
-## [b. Functions](b.%20Functions/functions.md)
+### [a. Patterns](a.%20Patterns/patterns.md)
 
-## [c. Arrays](c.%20Arrays/arrays.md)
+### [b. Functions](b.%20Functions/functions.md)
+
+### [c. Arrays](c.%20Arrays/arrays.md)
