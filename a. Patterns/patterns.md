@@ -2,4 +2,4 @@
 
 ## Contents =>
 
-![Alt text](images/pattern%201.png)
+<img src="images/pattern%201.png" width="250">
