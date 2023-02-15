@@ -1,15 +1,7 @@
-# All Weeks
+# Supreme Batch solutions by Tejas Chaudhari
 
-## Week 1
+## [Functions](docs/week-2/functions.md)
 
-### [Patterns and Homework](docs/week-1/patterns.md)
+## [Problems Solving](docs/week-2/problems.md)
 
-## Week 2
-
-### [Functions and Homework](docs/week-2/functions.md)
-
-### [Problems and Homework](docs/week-2/problems.md)
-
-## Week 3
-
-### [Arrays and Homework](docs/week-3/arrays.md)
+## [Arrays](docs/week-3/arrays.md)
