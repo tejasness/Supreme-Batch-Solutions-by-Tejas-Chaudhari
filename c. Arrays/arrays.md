@@ -1,7 +1,20 @@
 # Arrays and Homework
 
 ## Contents =>
-[]()
+
+[a. Initialize array with -1](#a-initialize-array-with--1)
+
+[b. Find a no in an array](#b-find-a-no-in-an-array)
+
+[c. Count 0s and 1s in array](#c-count-0s-and-1s-in-array)
+
+[d. Maximum num in an array](#d-maximum-num-in-an-array)
+
+[e. Extreme print in array](#e-extreme-print-in-array)
+
+[f. Reverse an array](#f-reverse-an-array)
+
+[g. Implement swap function 3 way](#g-implement-swap-function-3-way)
 
 <br>
 ## Solutions =>
