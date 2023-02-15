@@ -28,10 +28,8 @@ bool find(int arr[], int size, int key) {
 			flag = 1;
 			return flag;
 		}
-		else{
-			return flag;
-		}
 	}
+	return flag;
 }
 
 int main(){
