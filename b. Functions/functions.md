@@ -1,14 +1,30 @@
 # Functions
 
-## Table of Contents
+## Contents =>
 
-### [Write a function to add 2 numbers](./functions.md#write-a-function-to-add-2-numbers)
+[Write a function to add 2 numbers](#write-a-function-to-add-2-numbers)
 
-### [Find max of 3 numbers](#find-max-of-3-numbers)
+[Find max of 3 numbers](#find-max-of-3-numbers)
 
-### [Counting from 1 to n](#counting-from-1-to-n)
+[Counting from 1 to n](#counting-from-1-to-n)
+
+[Students and grade problem](#students-and-grade-problem)
+
+[Sum of even no upto n](#sum-of-even-no-upto-n)
+
+[Area of circle](#area-of-circle)
+
+[Find no is even or odd](#find-no-is-even-or-odd)
+
+[Find factorial of number](#find-factorial-of-number)
+
+[Check no is prime or not](#check-no-is-prime-or-not)
+
+[Print all prime no from 1 to n](#print-all-prime-no-from-1-to-n)
 
 <br>
+
+## Solutions =>
 
 ### Write a function to add 2 numbers
 
@@ -88,7 +104,7 @@ int main(){
 }
 ```
 
-### students and grade problem
+### Students and grade problem
 
 ```cpp
 #include<iostream>
@@ -118,7 +134,7 @@ int main(){
 }
 ```
 
-### sum of even no upto n
+### Sum of even no upto n
 
 ```cpp
 #include<iostream>
@@ -165,7 +181,7 @@ int main(){
 }
 ```
 
-### find no is even or odd
+### Find no is even or odd
 
 ```cpp
 #include<iostream>
@@ -190,7 +206,7 @@ int main(){
 }
 ```
 
-### find factorial of number
+### Find factorial of number
 
 ```cpp
 #include<iostream>
@@ -214,13 +230,13 @@ int main(){
 }
 ```
 
-### check no is prime or not
+### Check no is prime or not
 
 ```cpp
 
 ```
 
-### print all prime no from 1 to n
+### Print all prime no from 1 to n
 
 ```cpp
 
