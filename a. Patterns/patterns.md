@@ -1,5 +1,5 @@
-# Patterns and Homework
+# Patterns
 
-## Functions =>
+## Contents =>
 
-## Homework =>
+![Alt text](images/pattern%201.png)

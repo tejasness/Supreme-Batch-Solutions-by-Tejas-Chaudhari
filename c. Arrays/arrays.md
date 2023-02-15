@@ -1,5 +1,3 @@
 # Arrays and Homework
 
-## Functions =>
-
-## Homework =>
+## Contents =>
