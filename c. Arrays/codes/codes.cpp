@@ -1,3 +1,5 @@
+// a. initialize array with -1
+
 #include <cstring>
 #include <iostream>
 using namespace std;
