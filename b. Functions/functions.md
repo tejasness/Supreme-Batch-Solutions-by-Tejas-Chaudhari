@@ -2,7 +2,7 @@
 
 ## Contents =>
 
-[a. Write a function to add 2 numbers](#write-a-function-to-add-2-numbers)
+[a. Write a function to add 2 numbers](#a.-write-a-function-to-add-2-numbers)
 
 [b. Find max of 3 numbers](#find-max-of-3-numbers)
 
@@ -26,7 +26,7 @@
 
 ## Solutions =>
 
-### Write a function to add 2 numbers
+### a. Write a function to add 2 numbers
 
 ```cpp
 #include<iostream>
