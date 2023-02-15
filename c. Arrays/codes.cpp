@@ -2,9 +2,9 @@
 
 #include <cstring>
 #include <iostream>
+
 using namespace std;
 
-// Driver Code
 int main()
 {
 	int arr[5];

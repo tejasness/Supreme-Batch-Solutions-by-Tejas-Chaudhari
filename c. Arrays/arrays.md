@@ -4,7 +4,7 @@
 
 ## Solutions =>
 
-### Initialize array with any no
+### Initialize array with -1
 
 ```cpp
 #include <cstring>
