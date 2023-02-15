@@ -27,8 +27,7 @@ bool find(int arr[], int size, int key) {
 		if(arr[i] == key){
 			flag = 1;
 			return flag;
-			break;
-	}
+		}
 		else{
 			return flag;
 		}
