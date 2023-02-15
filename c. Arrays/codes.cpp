@@ -1,4 +1,4 @@
-// a. initialize array with -1
+// => a. initialize array with -1
 
 // #include <cstring>
 // #include <iostream>
@@ -15,7 +15,7 @@
 // 	return 0;
 // }
 
-// find a no in an array
+// => b. find a no in an array
 
 // #include<iostream>
 
@@ -46,4 +46,4 @@
 // 	return 0;
 // }
 
-// Count 0s and 1s in array
+// => c. Count 0s and 1s in array
