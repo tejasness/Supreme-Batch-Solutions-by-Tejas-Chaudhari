@@ -1,4 +1,4 @@
-# Arrays and Homework
+# Arrays
 
 ## Contents =>
 
@@ -17,6 +17,7 @@
 [g. Implement swap function 3 way](#g-implement-swap-function-3-way)
 
 <br>
+
 ## Solutions =>
 
 ### a. Initialize array with -1
