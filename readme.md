@@ -2,8 +2,12 @@
 
 ## Topics =>
 
-### [a. Patterns](a.%20Patterns/patterns.md)
+### [a. Patterns](Patterns/patterns.md)
 
-### [b. Functions](b.%20Functions/functions.md)
+### [b. Functions](Functions/functions.md)
 
-### [c. Arrays](c.%20Arrays/arrays.md)
+### [c. Arrays](Arrays/arrays.md)
+
+## Other Topics =>
+
+### [a. For loop](Other%20topics/For%20loop/)
