@@ -10,4 +10,4 @@
 
 ## Other Topics =>
 
-### [a. For loop](Other%20topics/For%20loop/)
+### [a. For loop](Other%20topics/For%20loop/for-loop.md)
