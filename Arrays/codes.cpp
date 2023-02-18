@@ -132,33 +132,63 @@
 
 // => f. Reverse an array
 
-#include<iostream>
+// #include<iostream>
 
-using namespace std;
+// using namespace std;
 
-int main(){
-	int arr[8] = {10,20,30,40,50,60,70,80};
-	int size = 8;
+// int main(){
+// 	int arr[8] = {10,20,30,40,50,60,70,80};
+// 	int size = 8;
 
-	int start = 0;
-	int end = size-1;
+// 	int start = 0;
+// 	int end = size-1;
 
-	while(start<=end) {
-
-		//step1:
-		swap(arr[start], arr[end]);
-		//step:2
-		start++;
-		//step3
-		end--;
+// 	while(start<=end) {
+// 		swap(arr[start], arr[end]);
+// 		start++;
+// 		end--;
 		
-	}
+// 	}
 
-	//printing array
-	for(int i=0; i<size; i++) {
-		cout << arr[i] << " ";
-	}
-	return 0;
-}
+// 	//printing array
+// 	for(int i=0; i<size; i++) {
+// 		cout << arr[i] << " ";
+// 	}
+// 	return 0;
+// }
 
 // => g. Implement swap function 3 way
+
+#include<iostream>
+using namespace std;
+
+void swap1(int a, int b){
+    a = a + b;
+    b = a - b;
+    a = a - b;
+    cout<<a<<' '<<b<<'\n';
+}
+
+void swap2(int a, int b){
+    int temp = a;
+    a = b;
+    b = temp;
+    cout<<a<<' '<<b<<'\n';
+}
+
+void swap3(int a, int b){
+    a = a ^ b;
+		b = a ^ b;
+		a = a ^ b;
+    cout<<a<<' '<<b<<'\n';
+}
+
+int main(){
+	int a,b;
+	cin>>a>>b;
+  swap3(a,b);
+  swap1(a,b);
+  swap2(a,b);
+
+    return 0;
+}
